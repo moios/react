@@ -1,0 +1,19 @@
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Archivos del editor
+*.log
+*.tmp
+*.swp
+*.swo
+*.bak
+
+# Carpetas típicas que no deben rastrearse
+node_modules/
+dist/
+build/
+
+# Configuración personal de IDEs (como VS Code)
+.vscode/
+.idea/
