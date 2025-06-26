@@ -18,13 +18,23 @@ select, input{
     width: 100px;
 }
 .ancho-medio{     width: 250px; }
-h2 {
+.h2-ing {
     color: blueviolet;
-    font-size: 24px;
+    font-size: 28pt;
+    font-family: Arial, sans-serif;
     font-weight: bold;
+    text-shadow: 3px 2px 2px rgba(0, 0, 0, 0.918);
+    background-color: cornflowerblue;
+    display: inline;
 }
-p {
+.p-ing {
     color: black;
-    font-size: 16px;
+    font-size: 20pt;
     font-style: italic;
+    font-weight: bold;
+    text-shadow: 
+        3px 3px 1px red,
+        5px 5px 2px white,
+        8px 8px 3px blue;
+    ;
 }
