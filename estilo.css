@@ -17,4 +17,16 @@ select, input{
     color: rgb(48, 48, 48);
     width: 100px;
 }
-.ancho-medio{     width: 250px; }
+.ancho-medio{     
+    width: 250px; }
+.h2-cris{
+color:blue;
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+text-decoration: underline wavy;
+}
+.p-cris{
+color: crimson;
+font-family: 'Times New Roman', Times, serif;
+text-decoration: underline dashed;
+text-shadow: color(srgb red rgb(128, 0, 0) blue);
+}
