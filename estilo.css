@@ -18,3 +18,12 @@ select, input{
     width: 100px;
 }
 .ancho-medio{     width: 250px; }
+
+
+.p-moi{
+    font-family: 'Courier New', Courier, monospace;    
+}
+
+.h2-moi{
+    color:blue;
+}

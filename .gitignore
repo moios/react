@@ -1,0 +1,43 @@
+# Dependencias de Node.js
+/node_modules
+
+# Archivos de producción
+/build
+
+# Archivos de logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Directorios del entorno local
+/.pnp
+.pnp.js
+
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
+
+# Variables de entorno
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Archivos de configuración del editor
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# Cache de testing
+coverage/
+
+# Cache de ESLint
+.eslintcache
+
+# Archivos de lock específicos (dependiendo del gestor)
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
