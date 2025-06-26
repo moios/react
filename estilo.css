@@ -18,3 +18,13 @@ select, input{
     width: 100px;
 }
 .ancho-medio{     width: 250px; }
+
+.car-titulo{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-decoration: underline;
+    color: blue;
+}
+.car-parrafo{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color:rgb(134, 3, 3);     
+}
