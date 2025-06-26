@@ -24,7 +24,7 @@ color:blue;
 font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 text-decoration: underline wavy;
 background-color: brown;
-display: flexbox;
+display: inline;
 }
 .p-cris{
 color: crimson;
@@ -32,4 +32,5 @@ font-family: 'Times New Roman', Times, serif;
 text-decoration: underline dashed;
 text-shadow:  1px 1px 1px black;
 filter: drop-shadow(1px 3px 1px red);
+
 }
