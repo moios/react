@@ -29,14 +29,14 @@ select, input{
 .ancho-medio{     width: 250px; }
 
 h2{
-margin-top: 40px;
-    font-size: 20pt;
-    color: #ffffff;
-    text-shadow: 2px 2px 3px rgb(83, 0, 126);
+
+    color: rgb(243, 243, 243);
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    text-shadow: 2px 2px 4px rgb(96, 9, 107)
 }
-p {
-    max-width: 600px;
-    margin: 0 auto;
-    line-height: 1.5;
-    padding: 10px;
+p{
+    color: rgb(243, 243, 243);
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
 }
